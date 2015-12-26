@@ -1,0 +1,2 @@
+cmdhistory=["(json/generate-string {\:name \\"Cheshire Cat\\" \:state \:grinning})" "(json/parse-string {\\"name\\"\:\\"Cheshire Cat\\",\\"state\\"\:\\"grinning\\"})" "(json/parse-string \\"{\\"name\\"\:\\"Cheshire Cat\\",\\"state\\"\:\\"grinning\\"}\\")" "(json/parse-string \\"{\\\\\\"name\\\\\\"\:\\\\\\"Cheshire Cat\\\\\\",\\\\\\"state\\\\\\"\:\\\\\\"grinning\\\\\\"}\\")"]
+eclipse.preferences.version=1
